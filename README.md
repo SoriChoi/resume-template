@@ -1,7 +1,8 @@
-# Resume template
 0. cd "이력서 저장소 위치"
 1. bundle install // 처음에만
 2. bundle exec jekyll serve
+# Resume template
+
 
 
 출처: https://selfish-developer.com/entry/Github-페이지를-이용해서-이력서-만들기 [아는 개발자]
